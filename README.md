@@ -1,7 +1,7 @@
 # Qube data challenge 2022
 The aim of this notebook is to present the main approaches
 I have adopted to address the data challenge of Qube hosted by the Collège de France.
-Here is the link: https://challengedata.ens.fr/participants/challenges/72/
+Here is the link: https://challengedata.ens.fr/challenges/72
 
 The task is to predict the next returns from a stock market using a factor model. 
 For a given stock, the factors are linear combinations of the past returns of this stock.
