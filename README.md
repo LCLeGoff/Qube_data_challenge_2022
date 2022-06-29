@@ -15,8 +15,8 @@ I have tried four type of models:
 * Neural networks
 * Models using the correlation over time.
 
-The **best model** I have found is a **combination of a Ridge linear regression and some well known factors**,
-which gives a train score of 0.1301 and a public score of 0.0829.
+The **best model** I have found is a **l2-regularized neural network**, 
+which gives a train score of 0.1326 and a public score of 0.084.
 
 To participate in the challenge, I have used two accounts with pseudos *Line* and *Akina*.
 
